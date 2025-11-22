@@ -78,7 +78,7 @@ pip install requests rich colorama
 ```
 3. Clone the tool
 ```
-git clone https://github.com/hackerxphantom/X-IG OSINT
+git clone https://github.com/hackerxphantom/X-IG-OSINT
 cd X-IG OSINT
 ```
 4. Requirements Install
